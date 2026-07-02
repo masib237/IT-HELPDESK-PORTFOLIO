@@ -19,6 +19,8 @@ User account became locked after multiple failed login attempts. Checked account
 ### Ticket 003 - Access Denied to Shared Folder (Permissions Issue)
 User reported inability to access departmental shared folder. Verified NTFS and share permissions on the file server. User was not part of the required security group. Added user to appropriate group and applied updated permissions. Access restored after group policy refresh.
 
+![sharedfolderaccess](https://github.com/masib237/IT-HELPDESK-PORTFOLIO/blob/main/FileSharing&Permissions/permissions.png?raw=true)
+
 ---
 
 ### Ticket 004 - Network Connectivity Issue
@@ -46,5 +48,3 @@ Successfully simulated real-world Tier 1 IT support scenarios involving user aut
 
 ---
 
-## Evidence
-Screenshots and supporting documentation included in `/screenshots/LAB 8`.
