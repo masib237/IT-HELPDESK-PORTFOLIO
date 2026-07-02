@@ -1,0 +1,19 @@
+# LAB Objective
+To simulate real IT helpdesk troubleshooting scenarios.
+
+## Example Tickets 
+
+### Ticket 001 - Password Reset
+User unable to log in due to forgotten password. Reset performed successfully.
+
+### Ticket 002 - Account Lockout
+User account locked after failed login attempts. Account unlocked.
+
+### Ticket 003 - Access Denied
+User denied access to shared folder. Issue resolved via group assignment.
+
+## Outcome
+Simulated real-world IT support scenarios successfully resolved.
+
+## Evidence
+Screenshots included in /screenshots/LAB 8
