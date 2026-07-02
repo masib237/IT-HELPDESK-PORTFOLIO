@@ -1,14 +1,14 @@
 # LAB Objective
 To simulate real IT helpdesk troubleshooting scenarios across common enterprise IT environments including Active Directory, user devices, network access, applications, and system configuration issues.
 
----
+
 
 ## Example Tickets
 
 ### Ticket 001 - Password Reset (Active Directory)
 User was unable to log in after forgetting their password. Verified account status in Active Directory Users and Computers (ADUC). Password was reset and the option “User must change password at next logon” was enabled. User successfully regained access after updating credentials.
 
----
+
 
 ### Ticket 002 - Account Lockout (AD Authentication Issue)
 User account became locked after multiple failed login attempts. Checked account status in Active Directory, confirmed lockout threshold was reached. Account was unlocked and login attempt history reviewed. User was advised on correct credential usage.
@@ -21,22 +21,22 @@ User reported inability to access departmental shared folder. Verified NTFS and 
 
 ![sharedfolderaccess](https://github.com/masib237/IT-HELPDESK-PORTFOLIO/blob/main/FileSharing&Permissions/permissions.png?raw=true)
 
----
+
 
 ### Ticket 004 - Network Connectivity Issue
 User unable to access internal network resources. Diagnosed issue using basic connectivity tests (ipconfig, ping). Identified incorrect DNS configuration on client machine. Corrected DNS settings to point to domain controller. Network access restored.
 
----
+
 
 ### Ticket 005 - Application Not Launching
 User reported that a company-installed application would not open. Checked Task Manager for background processes and attempted restart. Verified missing dependency causing application failure. Reinstalled application and confirmed successful launch.
 
----
+
 
 ### Ticket 006 - Printer Not Responding
 User unable to print documents to network printer. Checked print queue and restarted Print Spooler service on client machine. Removed and re-added network printer. Test print completed successfully.
 
----
+
 
 ### Ticket 007 - Slow Computer Performance
 User reported slow system performance. Checked startup programs, disk usage, and running processes. Disabled unnecessary startup applications and cleared temporary files. Performance improved after optimization.
@@ -66,5 +66,5 @@ As part of the helpdesk simulation lab, Jira was used to document and track IT s
 - **High Priority:** Issues affecting multiple users or key business functions
 - **Critical Priority:** System-wide outages or security-related incidents requiring immediate attention
 
-![JiraTickets]()
+![JiraTickets](https://github.com/masib237/IT-HELPDESK-PORTFOLIO/blob/main/TicketingDocumentation/Jira%20Tickets.png?raw=true)
 
