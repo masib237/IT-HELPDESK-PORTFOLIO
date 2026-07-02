@@ -13,5 +13,7 @@ File sharing is essential for collaboration in enterprise environments.
 ## Outcome
 Access permissions successfully configured and tested.
 
-## Evidence
-Screenshots included in /screenshots/LAB 7
+## Created a shared folder and set access permissions for different Users
+![shared](https://github.com/masib237/IT-HELPDESK-PORTFOLIO/blob/main/FileSharing&Permissions/file%20sharing.png?raw=true)
+
+![shared]()
