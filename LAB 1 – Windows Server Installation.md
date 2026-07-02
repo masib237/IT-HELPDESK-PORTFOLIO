@@ -13,4 +13,6 @@ Windows Server is the foundation for enterprise IT infrastructure.
 Windows Server successfully installed and operational.
 
 ## Evidence
-Screenshots included in /screenshots/LAB 1
+Screenshot
+
+![Screenshot](C:\Users\xxx\Desktop\IT-HELPDESK-LABS\Installation&Setup\Server setup.png)
