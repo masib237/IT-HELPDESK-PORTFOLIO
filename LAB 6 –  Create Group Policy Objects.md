@@ -20,4 +20,4 @@ Policies successfully applied to domain users.
 ![enabled](https://github.com/masib237/IT-HELPDESK-PORTFOLIO/blob/main/GroupPolicyObjects/VirtualBox_Windows%20Server%202022-DC01_02_07_2026_14_22_58.png?raw=true)
 
 ## GPO linked to Organizational Unit
-![linked]()
+![linked](https://github.com/masib237/IT-HELPDESK-PORTFOLIO/blob/main/GroupPolicyObjects/link%20gpo2%20to%20Hr%20Ou.png?raw=true)
