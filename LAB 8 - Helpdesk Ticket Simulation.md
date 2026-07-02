@@ -13,7 +13,8 @@ User was unable to log in after forgetting their password. Verified account stat
 ### Ticket 002 - Account Lockout (AD Authentication Issue)
 User account became locked after multiple failed login attempts. Checked account status in Active Directory, confirmed lockout threshold was reached. Account was unlocked and login attempt history reviewed. User was advised on correct credential usage.
 
-![unlocked account]()
+![unlocked account](https://github.com/masib237/IT-HELPDESK-PORTFOLIO/blob/main/ActiveDirectoryLabs/PasswordReset&Unlock%20Account.png?raw=true)
+
 
 ### Ticket 003 - Access Denied to Shared Folder (Permissions Issue)
 User reported inability to access departmental shared folder. Verified NTFS and share permissions on the file server. User was not part of the required security group. Added user to appropriate group and applied updated permissions. Access restored after group policy refresh.
