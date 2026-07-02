@@ -41,10 +41,30 @@ User unable to print documents to network printer. Checked print queue and resta
 ### Ticket 007 - Slow Computer Performance
 User reported slow system performance. Checked startup programs, disk usage, and running processes. Disabled unnecessary startup applications and cleared temporary files. Performance improved after optimization.
 
+
+## Jira Ticketing System Simulation
+
+As part of the helpdesk simulation lab, Jira was used to document and track IT support incidents in a structured ticketing workflow. Each ticket was created to reflect real-world IT service desk operations including issue logging, categorization, prioritization, assignment, and resolution tracking.
+
 ---
 
-## Outcome
-Successfully simulated real-world Tier 1 IT support scenarios involving user authentication, access control, network troubleshooting, application issues, and system performance optimization.
+## Ticket Management Process Demonstrated
+
+- **Issue Logging:** Incidents were recorded with clear problem descriptions submitted by end users.
+- **Categorization:** Tickets were classified based on type such as Access Issues, Authentication Failures, Network Problems, and System/Application Errors.
+- **Priority Assignment:** Each ticket was assigned a priority level (Low, Medium, High, Critical) depending on business impact and urgency.
+- **Assignment:** Tickets were assigned to a support agent for resolution based on workload and skill set.
+- **Investigation & Resolution:** Troubleshooting steps were documented within the ticket, including system checks, configuration changes, and user verification.
+- **Closure:** Tickets were marked as resolved after confirmation that the user issue had been successfully fixed.
 
 ---
+
+## Priority Understanding
+
+- **Low Priority:** Minor issues not affecting business operations (e.g., UI glitches, non-urgent requests)
+- **Medium Priority:** Issues affecting individual users but not blocking critical work
+- **High Priority:** Issues affecting multiple users or key business functions
+- **Critical Priority:** System-wide outages or security-related incidents requiring immediate attention
+
+![JiraTickets]()
 
