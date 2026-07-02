@@ -15,3 +15,4 @@ A structured domain environment was successfully created.
 
 ## Evidence
 Screenshots included in /screenshots/LAB 3
+[AD set-up](https://github.com/masib237/IT-HELPDESK-PORTFOLIO/blob/main/Installation&Setup/AD%20DC.png?raw=true)
