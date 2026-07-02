@@ -18,10 +18,13 @@ New User created
 
 ![login](https://github.com/masib237/IT-HELPDESK-PORTFOLIO/blob/main/ActiveDirectoryLabs/VirtualBox_Windows%20Server%202022-DC01_02_07_2026_13_41_11.png?raw=true)
 
-**##Sample error encoutered during user creation**
+## Sample error encoutered during user creation
 It was corrected by using a stronger password
 
-[!password error](https://github.com/masib237/IT-HELPDESK-PORTFOLIO/blob/main/ActiveDirectoryLabs/password%20error.png?raw=true)
+![password error](https://github.com/masib237/IT-HELPDESK-PORTFOLIO/blob/main/ActiveDirectoryLabs/password%20error.png?raw=true)
 
-##Successful user account creation
+## Successful user account creation
+![successful](https://github.com/masib237/IT-HELPDESK-PORTFOLIO/blob/main/ActiveDirectoryLabs/New%20user%20creation.png?raw=true)
+
+
 
