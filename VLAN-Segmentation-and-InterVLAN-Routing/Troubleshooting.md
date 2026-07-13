@@ -24,7 +24,7 @@ ip helper-address
 on each VLAN subinterface.
 
 I also created separate DHCP pools for each VLAN.
-![apipa](https://github.com/masib237/IT-HELPDESK-PORTFOLIO/blob/main/VLAN-Segmentation-and-InterVLAN-Routing/Screenshots/APIPA%20ip%20issue.png?raw=true)
+![apipa](https://github.com/masib237/IT-HELPDESK-PORTFOLIO/blob/main/VLAN-Segmentation-and-InterVLAN-Routing/Screenshots/dhcp%20relay%20to%20solve%20apipa%20issue.png?raw=true)
 
 
 ### Verification
