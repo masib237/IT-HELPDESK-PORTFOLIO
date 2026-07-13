@@ -35,6 +35,7 @@ The network consists of:
 - 1 Layer 2 Switch
 - 1 DHCP Server
 - Multiple client PCs
+  ![Network Topology]()
 
 The switch was configured with multiple VLANs representing different departments:
 
